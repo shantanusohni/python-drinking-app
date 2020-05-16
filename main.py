@@ -6,6 +6,6 @@ if __name__ == "__main__":
             title = "pls drink water now !!",
             message = "8 litter requied",
             app_icon ="C:\\Users\\shree\\Desktop\\drinkwater_app\\icon.ico",
-            timeout= 10
+            timeout=10
         )
-        time.sleep(6)
+        time.sleep(60*60) #it will remain you in every hour as 3600 minutes
